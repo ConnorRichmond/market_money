@@ -1,0 +1,3 @@
+class SearchError < StandardError
+
+end
